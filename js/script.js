@@ -45,16 +45,17 @@ const MENU = [
    behavior is exercised via its own test suite, not here.
    ========================================================= */
 const SIZES = {
-  pequeno:{ label:'Pequeno (até 15 pessoas)', price:180 },
-  medio:{ label:'Médio (20 a 30 pessoas)', price:220 },
-  grande:{ label:'Grande (35 a 50 pessoas)', price:260 },
-  extraGrande:{ label:'Extra grande (60+ pessoas)', price:300 },
+  pequeno:{ label:'Pequeno (até 15 pessoas)', price:150 },
+  medio:{ label:'Médio (20 a 30 pessoas)', price:200 },
+  grande:{ label:'Grande (35 a 50 pessoas)', price:360 },
+  extraGrande:{ label:'Extra grande (60+ pessoas)', price:500 },
 };
 const BATTERS = {
   baunilha:{ label:'Baunilha', addOn:0 },
   chocolate:{ label:'Chocolate', addOn:10 },
   cenoura:{ label:'Cenoura com chocolate', addOn:10 },
   redVelvet:{ label:'Red velvet', addOn:20 },
+  babademoça:{ label:'Baba de moça', addOn:25 },
 };
 const FILLINGS = {
   brigadeiro:{ label:'Brigadeiro', addOn:0 },
