@@ -3,7 +3,7 @@
    ========================================================= */
 const CONFIG = {
   // Digits only, country + area code, e.g. 55 62 99999-9999 -> "5562999999999"
-  whatsappNumber: '5562999999999', // PLACEHOLDER — troque pelo número real
+  whatsappNumber: '5561992955286', // PLACEHOLDER — troque pelo número real
   instagramUrl: 'https://instagram.com/nuvemdeacucar', // PLACEHOLDER — troque pelo perfil real
 };
 
